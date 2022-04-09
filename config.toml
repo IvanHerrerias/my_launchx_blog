@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://ivanherrerias.github.io/my_launchx_blog/"
 languageCode = "en-us"
 title = "Bitácora de Viaje de Ivan"
 theme = "hugo-winston-theme"
